@@ -777,3 +777,4 @@ document.getElementById("demo-form").addEventListener("submit", (e) => {
   e.target.reset();
 });
  
+// GSAP timeline update
