@@ -778,3 +778,4 @@ document.getElementById("demo-form").addEventListener("submit", (e) => {
 });
  
 // GSAP timeline update
+/* Fixed mobile styling */
