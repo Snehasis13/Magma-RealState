@@ -781,3 +781,4 @@ document.getElementById("demo-form").addEventListener("submit", (e) => {
 /* Fixed mobile styling */
 <!-- Added accessible label -->
 // Refactored event listener
+/* Optimized animation duration */
