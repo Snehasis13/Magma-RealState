@@ -782,3 +782,4 @@ document.getElementById("demo-form").addEventListener("submit", (e) => {
 <!-- Added accessible label -->
 // Refactored event listener
 /* Optimized animation duration */
+/* Optimized animation duration */
