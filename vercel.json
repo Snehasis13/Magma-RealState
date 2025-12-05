@@ -1,5 +1,11 @@
 {
     "version": 2,
     "public": true,
-    "name": "magma-realstate"
+    "name": "magma-realstate",
+    "builds": [
+        {
+            "src": "**",
+            "use": "@vercel/static"
+        }
+    ]
 }
