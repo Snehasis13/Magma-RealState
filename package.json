@@ -1,0 +1,11 @@
+{
+    "name": "magma-realstate",
+    "version": "1.0.0",
+    "description": "Magma Real Estate Digital Twin",
+    "scripts": {
+        "build": "echo 'No build step required for static site'"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
